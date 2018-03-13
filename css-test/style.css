@@ -1,0 +1,41 @@
+* {
+
+
+}
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+.un {
+  width: 25%;
+  height: 100%;
+  background-color: blue;
+  
+}
+.cinq {
+  width: 50%;
+  background-color: yellow;
+  height: 100%;
+}
+.six {
+  width: 50%;
+  background-color: aqua;
+  height: 100%;
+}
+
+.deux {
+  width: 25%;
+
+  background-color: red;
+}
+.trois {
+  width: 40%;
+
+  background-color: green;
+}
+.quatre {
+  width: 10%;
+
+  background-color: silver;
+}
